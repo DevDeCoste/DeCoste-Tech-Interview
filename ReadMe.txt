@@ -15,5 +15,7 @@ To run the Java file w/ Maven:
 -- File: https://maven.apache.org/download.cgi
 -- Directions: http://maven.apache.org/install.html
 - Open your IDE
+- Pull project from GitHub
+- Main project code located in src/main/java/org/example
 - Open "DeCoste-Tech-Interview" project
 - Select Run -> Run 'DeCosteSTETest'
